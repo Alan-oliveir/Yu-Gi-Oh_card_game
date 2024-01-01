@@ -125,6 +125,7 @@
 .card-infield {
   height: 11.2rem;
   width: 8rem;
+  border: 0.063rem solid #f5eeee;
   border-radius: 0.5rem;
 }
 
