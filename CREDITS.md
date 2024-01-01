@@ -1,7 +1,7 @@
 ## Créditos
 
 - Este jogo foi desenvolvido como parte de um projeto educacional da **Digital Innovation One**.  
-Confira o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph).
+Confira o repositório original [aqui](https://github.com/digitalinnovationone/js-yugioh-assets).
 
 - Framework: **RPGUI** - Lightweight framework for old-school RPG GUI in web!  
 Acesse o repositório [aqui](https://github.com/RonenNess/RPGUI).
