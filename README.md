@@ -19,6 +19,9 @@ Este projeto faz parte do Bootcamp Potência Tech iFood - Desenvolvimento de Jog
 ## Preview do jogo
 ![Screenshot](https://github.com/Alan-oliveir/Yu-Gi-Oh_card_game/blob/main/screenshots/screenshoot.png)
 
+### Deploy
+O jogo está disponível em:
+https://alan-oliveir.github.io/Yu-Gi-Oh_card_game/
 ___
 **Créditos:**   
 Acesse [aqui](https://github.com/Alan-oliveir/Yu-Gi-Oh_card_game/blob/main/CREDITS.md)
